@@ -4,4 +4,4 @@ fordge 1.12.2
 инструкция в файле readme.txt внутри архива
 
 Если вам помог данный мод, или у вас есть вопросы и пожелания, пожалуйста, пройдите на форму
-https://forms.yandex.ru/u/6a27e22949af4795fb1ffbcd/?page=3
+https://forms.yandex.ru/u/6a27e22949af4795fb1ffbcd
